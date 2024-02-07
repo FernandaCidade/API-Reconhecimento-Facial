@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="953bedf6-3e55-4a6a-a4ef-8265c4524bb2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cadastro Sebo/untitled/src/Autor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cadastro Sebo/untitled/src/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../ConversorMoedas/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/androidTest/java/com/example/conversormoedas/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/java/com/example/conversormoedas/FirstFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/java/com/example/conversormoedas/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/java/com/example/conversormoedas/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/java/com/example/conversormoedas/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/java/com/example/conversormoedas/SecondFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/java/com/example/conversormoedas/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/java/com/example/conversormoedas/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/java/com/example/conversormoedas/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConversorMoedas/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/app/src/test/java/com/example/conversormoedas/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../ConversorMoedas/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ConversorMoedas/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ConversorMoedas/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConversorMoedas/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../ConversorMoedas/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeuPrimeiroProjeto/app/src/main/java/com/example/meuprimeiroprojeto/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MeuPrimeiroProjeto/app/src/main/java/com/example/meuprimeiroprojeto/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeuPrimeiroProjeto/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MeuPrimeiroProjeto/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VSConnect_kotli/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VSConnect_kotli/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VSConnect_kotli/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VSConnect_kotli/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VSConnect_kotli/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VSConnect_kotli/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apisecurepass/apisecurepass/src/main/java/com/senai/apisecurepass/models/MaquinaModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apisecurepass/apisecurepass/src/main/java/com/senai/apisecurepass/models/MaquinaModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apisecurepass/apisecurepass/src/main/java/com/senai/apisecurepass/models/TipoUsuarioModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apisecurepass/apisecurepass/src/main/java/com/senai/apisecurepass/models/TipoUsuarioModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apisecurepass/apisecurepass/src/main/java/com/senai/apisecurepass/models/UsuarioMaquinaModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apisecurepass/apisecurepass/src/main/java/com/senai/apisecurepass/models/UsuarioMaquinaModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apisecurepass/apisecurepass/src/main/java/com/senai/apisecurepass/models/UsuarioModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apisecurepass/apisecurepass/src/main/java/com/senai/apisecurepass/models/UsuarioModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apivsconnect-main/apivsconnect-main/src/main/java/com/senai/apivsconnect/models/TipoModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apivsconnect-main/apivsconnect-main/src/main/java/com/senai/apivsconnect/services/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apivsconnect-main/apivsconnect-main/src/main/java/com/senai/apivsconnect/services/FileUploadService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/androidTest/java/com/senai/vsconnect_kotlin/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/senai/vsconnect_kotlin/LoginActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/senai/vsconnect_kotlin/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/senai/vsconnect_kotlin/adapters/ListaServicoAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/senai/vsconnect_kotlin/apis/EndpointInterface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/senai/vsconnect_kotlin/apis/RetrofitConfig.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/senai/vsconnect_kotlin/components/ServicoFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/senai/vsconnect_kotlin/models/Login.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/senai/vsconnect_kotlin/models/Servico.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/senai/vsconnect_kotlin/views/EditarImagemFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/senai/vsconnect_kotlin/views/ListaServicosFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/color/style_menu_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_menu_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_menu_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_menu_slideshow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/icone_lapis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/logo_dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/logo_light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/side_nav_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/style_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/font/titilliumweb_bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/font/titilliumweb_light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/app_bar_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_editar_imagem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_lista_servicos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_servico.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/nav_header_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values-land/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values-w1240dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values-w600dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/test/java/com/senai/vsconnect_kotlin/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle.kts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2c3gdkTqjvEiJTNoCatmGWaIWQp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="953bedf6-3e55-4a6a-a4ef-8265c4524bb2" name="Changes" comment="" />
+      <created>1707345767542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707345767542</updated>
+      <workItem from="1707345770279" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
